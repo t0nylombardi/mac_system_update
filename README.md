@@ -1,6 +1,8 @@
 OSX Update script
 =================
 
+[![Join the chat at https://gitter.im/t0nyshier/mac_system_update](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/t0nyshier/mac_system_update?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # What does it do?
 
 The script will check and update any of the following if installed:
